@@ -117,18 +117,19 @@ form img{
 .cont1_f{
 	padding: 0 0.25rem;
 	overflow: hidden;
-	margin-top: 0.7rem
+	margin-top: 0.9rem
 }
 .cont1_f .cont1_back{
 	display: block;
 	color:#2dcb7b;
 	font-size: 0.7rem;
 	float: left;
+	margin-top: 0.9rem
 }
 .cont1_f .free{
 	float: right;
 	font-size: 0.7rem;
-	margin-top: 0.3rem;
+	margin-top: 0.9rem;
 }
 .bdsharebuttonbox{
 	float: right;
